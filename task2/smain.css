@@ -1,0 +1,31 @@
+  body {
+        background-color: #f0f0f0;
+        color: #333;
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        text-align: center;
+    }
+
+    .phone-icon {
+        font-size: 100px;
+        margin-bottom: 30px;
+        color: #007bff; /* Blue color for security */
+    }
+
+    .secure-message {
+        font-size: 32px;
+        margin-bottom: 20px;
+        color: #007bff; /* Blue color for security */
+    }
+
+    .note {
+        font-size: 24px;
+        color: #666;
